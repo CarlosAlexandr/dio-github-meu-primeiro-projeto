@@ -1,4 +1,3 @@
 # dio-github-meu-primeiro-projeto
-Repositório criado para desafio de projeto.
+Repositório criado como  respositório secundário
 
-Links úteis
